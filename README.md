@@ -1,6 +1,6 @@
 # Aiden Rourke
 
-[LinkedIn](https://linkedin.com/in/aidenrourke/) `/aidenrourke` | +1-613-879-3686 | [Email](mailto:aidenrourke@gmail.com) `aidenrourke@gmail.com` | [GitHub](https://github.com/AidenRourke) `/AidenRourke`
+`+1-613-879-3686` | [LinkedIn](https://linkedin.com/in/aidenrourke/) `/aidenrourke` | [Email](mailto:aidenrourke@gmail.com) `aidenrourke@gmail.com` | [GitHub](https://github.com/AidenRourke) `/AidenRourke`
 
 ---
 
