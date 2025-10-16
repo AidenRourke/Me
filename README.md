@@ -4,7 +4,7 @@
 
 ---
 
-# 🧩 Skills
+# Skills
 
 **Languages & Frameworks:** JavaScript (Node.js, React), TypeScript, Java, Groovy, HTML/CSS, ExpressJS, Spring Boot  
 **Databases & Storage:** Elasticsearch, SQL databases, NoSQL databases, JDBC-compatible data warehouses  
@@ -13,7 +13,7 @@
 
 ---
 
-# 📊 Experience
+# Experience
 
 ### **Klipfolio** — *Senior Software Developer*  
 *Ottawa, ON | June 2021 – Present*
@@ -28,7 +28,7 @@
 
 ---
 
-# 🎓 Education
+# Education
 
 **Carleton University** — *Bachelor of Computer Science (Honours), Minor in Psychology*  
 *Ottawa, ON | September 2016 – May 2021*  
@@ -37,7 +37,7 @@
 
 ---
 
-# 🧪 Projects
+# Projects
 
 ### **Securing External JavaScript (Honours Project)**
 
