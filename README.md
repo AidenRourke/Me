@@ -1,3 +1,9 @@
+# Aiden Rourke
+
+[LinkedIn](https://linkedin.com/in/aidenrourke/) `/aidenrourke` | +1-613-879-3686 | [Email](mailto:aidenrourke@gmail.com) `aidenrourke@gmail.com` | [GitHub](https://github.com/AidenRourke) `/AidenRourke`
+
+---
+
 # 🧩 Skills
 
 **Languages:** JavaScript/HTML/CSS, Java, SQL  
