@@ -6,8 +6,8 @@
 
 # 🧩 Skills
 
-**Languages & Frameworks:** JavaScript (Node.js, React), TypeScript, Java, Groovy, HTML/CSS, ExpressJS, Spring Boot, Dropwizard  
-**Databases & Storage:** SQL, H2, Elasticsearch, JDBC-compatible data warehouses  
+**Languages & Frameworks:** JavaScript (Node.js, React), TypeScript, Java, Groovy, HTML/CSS, ExpressJS, Spring Boot  
+**Databases & Storage:** Elasticsearch, SQL databases, NoSQL databases, JDBC-compatible data warehouses  
 **Tools & Platforms:** Git/GitHub, Kubernetes, YourKit Profiler  
 **Concepts & Technologies:** Microservices, REST APIs, Payment Systems (Zuora → Stripe), Data Visualization, Web App Security, 2FA, Performance Optimization, Pagination & Query Optimization
 
