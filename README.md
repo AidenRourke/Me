@@ -1,14 +1,15 @@
 # Aiden Rourke
 
-`+1-613-879-3686` | [LinkedIn](https://linkedin.com/in/aidenrourke/) `/aidenrourke` | [Email](mailto:aidenrourke@gmail.com) `aidenrourke@gmail.com` | [GitHub](https://github.com/AidenRourke) `/AidenRourke`
+[LinkedIn](https://linkedin.com/in/aidenrourke/) `/aidenrourke` | +1-613-879-3686 | [Email](mailto:aidenrourke@gmail.com) `aidenrourke@gmail.com` | [GitHub](https://github.com/AidenRourke) `/AidenRourke`
 
 ---
 
 # 🧩 Skills
 
-**Languages:** JavaScript/HTML/CSS, Java, SQL  
-**Tools:** ExpressJS, ReactJS, Spring Boot, Elasticsearch, Groovy on Grails, GitHub  
-**Technologies:** Website Development, Data Management, Payment Platform  
+**Languages & Frameworks:** JavaScript (Node.js, React), TypeScript, Java, Groovy, HTML/CSS, ExpressJS, Spring Boot, Dropwizard  
+**Databases & Storage:** SQL, H2, Elasticsearch, JDBC-compatible data warehouses  
+**Tools & Platforms:** Git/GitHub, Kubernetes, YourKit Profiler  
+**Concepts & Technologies:** Microservices, REST APIs, Payment Systems (Zuora → Stripe), Data Visualization, Web App Security, 2FA, Performance Optimization, Pagination & Query Optimization
 
 ---
 
@@ -17,29 +18,13 @@
 ### **Klipfolio** — *Senior Software Developer*  
 *Ottawa, ON | June 2021 – Present*
 
-- Architected and implemented an Express microservice to abstract billing operations and enable the full migration of Klipfolio’s payment infrastructure from Zuora to Stripe, including data migration of legacy subscription plans and refactoring core systems to eliminate direct Zuora integrations.  
-- Improved Klipfolio's product, originally relying solely on Elasticsearch to store data, by developing a feature that enabled users to use their own data warehouses, using JDBC drivers to support a variety of external storage solutions.  
-- Enhanced Klipfolio's data visualization capabilities to accommodate alternative first days of the week.  
-- Used the Java YourKit Profiler to diagnose performance issues in a Spring Boot application, alleviating a bottleneck through caching, leading to a verified performance improvement.  
-- Deployed a new Express microservice to Klipfolio's Kubernetes cluster, enhancing capabilities while mitigating the need for further additions to the legacy monolithic server.  
-- Added Two-Factor Authentication (2FA) to Klipfolio's product to enhance security and protect user accounts against unauthorized access.  
-- Implemented a design for a single-page interface to streamline a multi-page flow, verifying its feasibility through a Spike, and working with a scrum team to deliver the project successfully.  
-- Implemented pagination and filtering at the database level for a critical API endpoint, resulting in an 80% decrease in average query time.  
-
----
-
-### **FullScript** — *Software Developer Intern*  
-*Ottawa, ON | January 2020 – May 2020*
-
-- Built a responsive user interface using TypeScript, ReactJS, and GraphQL to allow for the management of attached files on a patient's treatment plan.  
-
----
-
-### **Interset** — *Software Developer Intern*  
-*Ottawa, ON | May 2018 – August 2019*
-
-- Created REST API endpoints using the Java Dropwizard framework and the H2 Java SQL database to support the development of a dashboarding feature.  
-- Developed a user interface using ReactJS to enable the creation of complex rules for identifying and flagging potentially dangerous events within an organization.  
+- Migrated Klipfolio’s payment system from Zuora to Stripe, including legacy subscription plans and decoupling core systems via an Express microservice.  
+- Enabled external data warehouse integration, extending reporting beyond Elasticsearch.  
+- Enhanced data visualization for customizable week start days.  
+- Resolved Spring Boot performance bottlenecks using YourKit Profiler and caching.  
+- Deployed microservices to Kubernetes, reducing reliance on the monolith.  
+- Implemented Two-Factor Authentication (2FA).  
+- Optimized a critical API endpoint with database-level pagination and filtering, reducing query time by 80%.
 
 ---
 
@@ -48,8 +33,7 @@
 **Carleton University** — *Bachelor of Computer Science (Honours), Minor in Psychology*  
 *Ottawa, ON | September 2016 – May 2021*  
 
-- GPA: 3.8/4  
-- Awards: Dean's Honor List and the Director of the School of Computer Science Award  
+- GPA: 3.8/4 | Dean's Honor List, Director of the School of Computer Science Award  
 
 ---
 
@@ -57,4 +41,4 @@
 
 ### **Securing External JavaScript (Honours Project)**
 
-- Conducted research and built a prototype to test and demonstrate the feasibility of implementing a safe and reliable method for incorporating external code in web applications, with a focus on Secure EcmaScript (SES).  
+- Built a prototype demonstrating secure integration of external JavaScript using Secure EcmaScript (SES).  
