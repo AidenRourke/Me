@@ -8,7 +8,7 @@
 
 **Languages & Frameworks:** JavaScript (Node.js, React), Java, Groovy, HTML/CSS, ExpressJS, Spring Boot  
 **Databases & Storage:** Elasticsearch, SQL databases, NoSQL databases, JDBC-compatible data warehouses
-**Tools & Platforms:** Git/GitHub, YourKit Profiler  
+**Tools & Platforms:** Git/GitHub, YourKit Profiler, CData JDBC drivers
 **Concepts & Technologies:** Microservices, REST APIs, Payment Systems (Zuora and Stripe), Data Visualization, Web App Security, 2FA, Performance Optimization 
 
 ---
@@ -18,6 +18,7 @@
 ### **Klipfolio** — *Senior Software Developer*  
 *Ottawa, ON | June 2021 – Present*
 
+- Troubleshoot and resolve issues with CData JDBC drivers, coordinating with the vendor to fix driver-related bugs.
 - Migrated Klipfolio’s payment system from Zuora to Stripe, decoupled the application from Zuora, and created a microservice to handle subscription management and related tasks.
 - Integrated JDBC-compatible data warehouses, handling varied drivers, query languages, and authentication, enabling users to define metrics in their warehouses for visualization in the product.  
 - Enhanced data visualization for customizable week start days.  
