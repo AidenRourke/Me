@@ -4,40 +4,40 @@
 
 ---
 
-# Skills
+## Skills
 
-**Languages & Frameworks:** JavaScript (Node.js, React), TypeScript, Java, Groovy, HTML/CSS, ExpressJS, Spring Boot  
-**Databases & Storage:** Elasticsearch, SQL databases, NoSQL databases, JDBC-compatible data warehouses  
-**Tools & Platforms:** Git/GitHub, Kubernetes, YourKit Profiler  
-**Concepts & Technologies:** Microservices, REST APIs, Payment Systems (Zuora → Stripe), Data Visualization, Web App Security, 2FA, Performance Optimization, Pagination & Query Optimization
+**Languages & Frameworks:** JavaScript (Node.js, React), Java, Groovy, HTML/CSS, ExpressJS, Spring Boot  
+**Databases & Storage:** Elasticsearch, SQL databases, NoSQL databases, JDBC-compatible data warehouses
+**Tools & Platforms:** Git/GitHub, YourKit Profiler  
+**Concepts & Technologies:** Microservices, REST APIs, Payment Systems (Zuora and Stripe), Data Visualization, Web App Security, 2FA, Performance Optimization 
 
 ---
 
-# Experience
+## Experience
 
 ### **Klipfolio** — *Senior Software Developer*  
 *Ottawa, ON | June 2021 – Present*
 
-- Migrated Klipfolio’s payment system from Zuora to Stripe, including legacy subscription plans and decoupling core systems via an Express microservice.  
-- Enabled external data warehouse integration, extending reporting beyond Elasticsearch.  
+- Migrated Klipfolio’s payment system from Zuora to Stripe, decoupled the application from Zuora, and created a microservice to handle subscription management and related tasks.
+- Integrated JDBC-compatible data warehouses, handling varied drivers, query languages, and authentication, enabling users to define metrics in their warehouses for visualization in the product.  
 - Enhanced data visualization for customizable week start days.  
 - Resolved Spring Boot performance bottlenecks using YourKit Profiler and caching.  
-- Deployed microservices to Kubernetes, reducing reliance on the monolith.  
+- Built microservices that proxy requests to the legacy monolith and handle new logic, helping reduce monolith dependencies.
 - Implemented Two-Factor Authentication (2FA).  
-- Optimized a critical API endpoint with database-level pagination and filtering, reducing query time by 80%.
+- Optimized a critical API endpoint with database-level pagination and filtering, reducing query time by 80%.  
 
 ---
 
-# Education
+## Education
 
 **Carleton University** — *Bachelor of Computer Science (Honours), Minor in Psychology*  
 *Ottawa, ON | September 2016 – May 2021*  
 
-- GPA: 3.8/4 | Dean's Honor List, Director of the School of Computer Science Award  
+- GPA: 3.8/4 | Dean’s Honor List, Director of the School of Computer Science Award  
 
 ---
 
-# Projects
+## Projects
 
 ### **Securing External JavaScript (Honours Project)**
 
