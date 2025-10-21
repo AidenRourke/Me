@@ -7,9 +7,12 @@
 ## Skills
 
 **Languages & Frameworks:** JavaScript (Node.js, React), TypeScript, Java, Groovy, HTML/CSS, ExpressJS, Spring Boot  
-**Databases & Storage:** Elasticsearch, SQL databases (MariaDB), NoSQL databases (MongoDB), JDBC-compatible data warehouses (BigQuery, Snowflake, PostgreSQL, etc)
-**Tools & Platforms:** Git/GitHub, YourKit Profiler, CData JDBC drivers
-**Concepts & Technologies:** Microservices, REST APIs, Payment Systems (Zuora and Stripe), Data Visualization, 2FA, Performance Optimization
+
+**Databases & Storage:** Elasticsearch, SQL databases (MariaDB), NoSQL databases (MongoDB), JDBC-compatible data warehouses (BigQuery, Snowflake, PostgreSQL, etc)  
+
+**Tools & Platforms:** Git/GitHub, YourKit Profiler, CData JDBC drivers  
+
+**Concepts & Technologies:** Microservices, REST APIs, Payment Systems (Zuora and Stripe), Data Visualization, 2FA, Performance Optimization  
 
 ---
 
