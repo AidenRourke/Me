@@ -21,7 +21,6 @@
 ### **Klipfolio** — *Senior Software Developer*  
 *Ottawa, ON | June 2021 – Present*
 
-- Troubleshoot and resolve issues with CData JDBC drivers, coordinating with the vendor to fix driver-related bugs.
 - Migrated Klipfolio’s payment system from Zuora to Stripe, decoupled the application from Zuora, and created a microservice to handle subscription management and related tasks.
 - Integrated JDBC-compatible data warehouses, handling varied drivers, query languages, and authentication, enabling users to define metrics in their warehouses for visualization in the product.  
 - Enhanced data visualization for customizable week start days.  
