@@ -19,7 +19,7 @@
 ## Experience
 
 ### **Klipfolio** — *Senior Software Developer*  
-*Ottawa, ON | June 2021 – Present*
+*Ottawa, ON | June 2021 – July 2026*
 
 - Migrated Klipfolio’s payment system from Zuora to Stripe, decoupled the application from Zuora, and created a microservice to handle subscription management and related tasks.
 - Integrated JDBC-compatible data warehouses, handling varied drivers, query languages, and authentication, enabling users to define metrics in their warehouses for visualization in the product.  
