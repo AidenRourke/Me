@@ -20,23 +20,20 @@ Senior software developer with over 5 years building and scaling full-stack, mic
 ## Experience
 ### **Klipfolio** — *Senior Software Developer*
 *Ottawa, ON | June 2021 – July 2026*
-- Drove core backend work in migrating the company's billing system from Zuora to Stripe: untangled Zuora dependencies woven throughout the application and reimplemented its behaviour against the Stripe API in a new subscription-management microservice.
 - Took an MCP tool over the company's query infrastructure from hackday concept to working proof of concept, connecting it to the product's AI chatbot to turn natural-language questions into metrics.
-- Cut a critical API's load time from up to a minute to ~10 seconds by paginating data spread across multiple microservices and reworking a front end that had assumed the full asset was loaded in browser memory.
-- Designed and built an internal tool for the support team to summarise partner-account limits and usage across clients, aggregating data spread across multiple microservices via an async loading job; proposed the design and secured stakeholder approval.
-- Extended the service that ran SQL against existing data connectors to also query users' own data warehouses: added JDBC connectivity, schema querying, and warehouse-specific handling in the SQL translation layer, letting users build metrics directly on their warehouse data.
-- Maintained the data connectors powering curated and custom queries; diagnosed breakages across driver versions and provider-side schema changes, producing minimal repros for the vendor and remapping changed fields while keeping existing queries working.
-- Configured and managed services in Klipfolio's Kubernetes cluster: building Docker images, authoring Helm charts, and deploying new microservices.
+- Led backend work migrating billing from Zuora to Stripe, untangling Zuora dependencies across the application and reimplementing them in a new subscription-management microservice.
+- Cut a critical API's load time from up to a minute to ~10 seconds by paginating data across microservices and reworking a front end that assumed the full asset was in browser memory.
+- Extended the SQL query service to run against users' own data warehouses via JDBC, and maintained the connectors behind it through driver upgrades and provider-side schema changes.
+- Proposed, designed, and shipped an internal tool giving the support team a single view of partner-account limits and usage, aggregating data across microservices via an async job.
 
 ---
 
 ## Projects
 ### **AI Calendar Assistant**
-- Built and deployed a personal calendar server (Node.js/Express), self-hosted on an always-on home machine and served privately over Tailscale.
-- Integrated an AI agent (Mastra framework) that connects to a Notion database via the Notion API, and a custom iCal feed that syncs the Notion calendar with Apple Calendar.
+- Self-hosted personal calendar server (Node.js/Express) served over Tailscale, with an AI agent (Mastra) backed by a Notion database and a custom iCal feed syncing to Apple Calendar.
 
 ### **Securing External JavaScript (Honours Project)**
-- Built a prototype demonstrating secure integration of external JavaScript using Secure EcmaScript (SES).
+- Prototyped secure integration of external JavaScript using Secure EcmaScript (SES).
 
 ---
 
