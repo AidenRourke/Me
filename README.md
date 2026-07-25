@@ -9,11 +9,9 @@ Senior software developer with over 5 years building and scaling full-stack, mic
 ---
 
 ## Skills
-**AI & Agentic Development:** Claude Code (daily driver), LLM tool-calling, MCP (Model Context Protocol), AI agents (Mastra), chatbot integration, prompt debugging  
-**Languages & Frameworks:** TypeScript, JavaScript, Node.js, Express, React, Java, Spring Boot, Go, Groovy, HTML/CSS  
-**Databases & Storage:** MongoDB, MariaDB/MySQL, Elasticsearch, JDBC data warehouses (BigQuery, Snowflake, PostgreSQL)  
-**Infrastructure & Tools:** Kubernetes (Docker, Helm), Git/GitHub, REST APIs, microservices, CData JDBC drivers, YourKit Profiler  
-**Concepts:** Payment systems (Stripe, Zuora), 2FA, performance optimisation, data visualisation
+**AI & Agentic Development:** Claude Code (daily driver), LLM tool-calling, MCP (Model Context Protocol), AI agents (Mastra), prompt debugging  
+**Languages & Frameworks:** TypeScript, JavaScript, Java, Go, Groovy, Node.js, Grails, Spring Boot, Express, React, Mastra, Kubernetes (Docker, Helm), HTML/CSS  
+**Data & Pipelines:** ETL pipelines, asynchronous workflows, event-driven workflows, dbt, Elasticsearch, relational and non-relational databases, data warehouses
 
 ---
 
