@@ -28,7 +28,7 @@ Senior software developer with over 5 years building and scaling full-stack, mic
 
 ## Projects
 ### **AI Calendar Assistant**
-- Self-hosted personal calendar server (Node.js/Express) served over Tailscale, with an AI agent (Mastra) backed by a Notion database and a custom iCal feed syncing to Apple Calendar.
+- Built a self-hosted, multi-user AI chat assistant (Node.js/Express, privately networked via Tailscale): a Mastra tool-calling agent with per-user persistent conversation memory (LibSQL), fronted by a streaming React (assistant-ui) UI.
 
 ### **Securing External JavaScript (Honours Project)**
 - Prototyped secure integration of external JavaScript using Secure EcmaScript (SES).
