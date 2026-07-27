@@ -4,7 +4,7 @@
 ---
 
 ## Summary
-Senior software developer with over 5 years building and scaling full-stack, microservice-based products, from a company-wide payment-system migration to developing and debugging production agent-orchestration systems. Fluent with agentic AI tools as part of everyday development.
+Senior full-stack developer with 5+ years on a SaaS business intelligence platform, working across the data pipeline, query infrastructure, visualization, and billing.
 
 ---
 
@@ -19,7 +19,7 @@ Senior software developer with over 5 years building and scaling full-stack, mic
 ### **Klipfolio** — *Senior Software Developer*
 *Ottawa, ON | June 2021 – July 2026*
 - Took an MCP tool over the company's query infrastructure from hackday concept to working proof of concept, connecting it to the product's AI chatbot to turn natural-language questions into metrics.
-- Led backend work migrating billing from Zuora to Stripe, untangling Zuora dependencies across the application and reimplementing them in a new subscription-management microservice.
+- Led backend work migrating billing for ~1,200 paying customers from Zuora to Stripe, untangling Zuora dependencies across the application and reimplementing them in a new subscription-management microservice.
 - Cut a critical API's load time from up to a minute to ~10 seconds by paginating data across microservices and reworking a front end that assumed the full asset was in browser memory.
 - Extended the SQL query service to run against users' own data warehouses via JDBC, and maintained the connectors behind it through driver upgrades and provider-side schema changes.
 - Proposed, designed, and shipped an internal tool giving the support team a single view of partner-account limits and usage, aggregating data across microservices via an async job.
