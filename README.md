@@ -27,10 +27,10 @@ Senior full-stack developer with 5+ years on a SaaS business intelligence platfo
 ---
 
 ## Projects
-### **AI Calendar Assistant**
+### **[AI Calendar Assistant] (https://github.com/AidenRourke/notion-calendar)**
 - Built a self-hosted, multi-user AI chat assistant (Node.js/Express, privately networked via Tailscale): a Mastra tool-calling agent with per-user persistent conversation memory (LibSQL), fronted by a streaming React (assistant-ui) UI.
 
-### **Securing External JavaScript (Honours Project)**
+### **[Securing External JavaScript] (https://github.com/AidenRourke/4905-honours-project) (Honours Project)**
 - Prototyped secure integration of external JavaScript using Secure EcmaScript (SES).
 
 ---
