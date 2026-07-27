@@ -4,7 +4,7 @@
 ---
 
 ## Summary
-Senior full-stack developer with 5+ years on a SaaS business intelligence platform, working across the data pipeline, query infrastructure, visualization, and billing.
+Senior full-stack developer with 5+ years on a SaaS business intelligence platform: billing, the data pipeline, and the dashboards, goals, and AI agents built on top of it.
 
 ---
 
